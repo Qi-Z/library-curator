@@ -9,3 +9,13 @@ A list of libraries which I come across in my work or while learning.
 
 ## [hapi](https://hapijs.com)
 Framework for web and server applications
+
+## GraphQL
+
+## RabbitMQ
+
+## Kafka
+
+## Memcached
+
+## Redis
