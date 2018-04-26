@@ -1,5 +1,5 @@
 # library-curator
-A list of libraries which I come across in my work.
+A list of libraries which I come across in my work or while learning.
 
 ## [Lunr.js](https://github.com/olivernn/lunr.js/) Simple Search Engine
 
